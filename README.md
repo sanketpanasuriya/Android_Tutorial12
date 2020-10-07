@@ -11,10 +11,11 @@ Learn the flow of the Recycler View Concept. Create a project and implement the 
   using Volley Library and generate the following output using RecyclerView.
 </p>
 <p>
-  <strong>Use this link to animation in RecyclerView:</strong>
+  <strong>
   <a href="https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213" class="external" target="_blank" rel="noreferrer noopener">
     <span>RecyclerView Animation Demo </span>
-    <span aria-hidden="true" class="ui-icon ui-icon-extlink ui-icon-inline" title="Links to an external site."></span>
+    <span aria-hidden="true" class="ui-icon ui-icon-extlink ui-icon-inline" title="Use this link to animation in RecyclerView:"></span>
     <span class="screenreader-only">&nbsp;(Links to an external site.)</span>
   </a>
+  </strong>
 </p>
